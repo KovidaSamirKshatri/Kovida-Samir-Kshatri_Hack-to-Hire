@@ -16,6 +16,10 @@ Further some visualizations have been made of what could be processed using the 
 Keeping aside GPU constraints, Named Entity Recognition(NER) should be used since we lack context. Also, the data set must be annotated to gather context so as to further apply techniques like word embeddings and cosine similarity.
 
 ****There is a major need of GPU.**
+**Prediction of Question:**
+
+![image](https://github.com/user-attachments/assets/684fdf4c-78fd-4276-b43c-c617098aa025)
+
 
 **Conclusion**
 Training on T5
