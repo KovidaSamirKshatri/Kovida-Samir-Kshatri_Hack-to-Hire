@@ -1,6 +1,7 @@
 # Kovida-Samir-Kshatri-IIIT-Delhi_Hack-to-Hire
 Indigo Hack to Hire - Data Science(4010)
 
+**The code is in python and has been run in the conda environment using Jupyter Notebooks and Google Colab.**
 
 The problem statement presented requires us to build a question answering system, specifically a closed book question answering system i.e., it does not use any context and answers based on the universal knowledge of the subject. 
 
@@ -20,6 +21,20 @@ Keeping aside GPU constraints, Named Entity Recognition(NER) should be used sinc
 
 ![image](https://github.com/user-attachments/assets/684fdf4c-78fd-4276-b43c-c617098aa025)
 
+
+**Other Outputs**
+
+Rouge Scores - T5 Model
+
+'rouge1': 0.022319084438360923
+'rouge2': 0.002821958552812256
+'rougeL': 0.021580922649481887
+
+Rouge Scores - GPT Model
+
+'rouge1': 0.0220655099710691
+'rouge2': 0.00416956645250348
+'rougeL': 0.019539540289236046
 
 **Conclusion**
 Training on T5
